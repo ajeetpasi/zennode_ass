@@ -1,0 +1,40 @@
+Ans1 - Aspiring to join as a software developer, I am drawn to the field due to my 
+passion for problem-solving and creating solutions through technology. I enjoy the 
+logical and creative aspects of programming, as well as the continuous learning and 
+innovation that the software development industry offers.  I am excited about contributing 
+to the evolution of technology and being part of a dynamic community that values collaboration and ingenuity.
+
+Ans2- Git Version Control System: Git is a distributed version control system widely used for source code management.
+It has transformed the way developers collaborate and manage code. Its speed, flexibility, and the ability to support non-linear
+development workflows have inspired a more efficient and collaborative approach to software development.
+
+Java- The Java programming language, along with the Java Development Kit (JDK), has been a foundational technology in the software industry. 
+It inspires developers for its "write once, run anywhere" principle, meaning that Java code can run on any device that supports Java.
+This cross-platform compatibility has led to the widespread adoption of Java in enterprise applications, mobile development (Android),
+and various other domains.
+
+React.js Library- React.js itself is a declarative, efficient, and flexible JavaScript library for building user interfaces. 
+It inspires developers for its component-based architecture, allowing them to create reusable and modular UI components.
+The virtual DOM and reactive updates contribute to efficient rendering, providing a smoother user experience. 
+React's popularity has led to the development of a vibrant ecosystem and a strong community, fostering innovation and 
+best practices in front-end development.
+
+Ans3- 
+Amazon- Amazon is a global e-commerce and cloud computing giant with a strong emphasis on innovation. 
+It attracts individuals interested in working on large-scale, impactful projects.
+
+Google- Google is renowned for its innovative culture, commitment to cutting-edge technology, and a focus on solving complex problems. 
+The company is often associated with a vibrant work environment, numerous employee benefits, and projects that have a global impact.
+
+J.P. Morgan- J.P. Morgan is a global financial services firm with a strong reputation in investment banking, asset management, and other financial services.
+It is recognized for its commitment to innovation, a wide range of financial products and services, and a global presence. Working at J.P. Morgan provides 
+professionals with opportunities to engage in complex financial transactions, collaborate on impactful projects, and contribute to the evolving landscape of finance.
+
+
+Ans4- In the next two years, I envision myself making substantial contributions to both the company and the industry. I am committed to continually refining and expanding my skills to stay at the forefront of industry trends.
+I plan to take on increasingly challenging projects within the company, leveraging my current expertise and acquiring new knowledge as needed.
+
+Ans5- Appointment System - booking an Appointment for patient with doctor. 
+Recruitment Portal - Recruitment Portal for a company where candidate came and fill there details in multiple form and we save the data of 
+candidate and revert them for next round and final result also.
+Swiggy Clone - using swiggy real ap;i created kisting of products and search functinality and menu list of product.

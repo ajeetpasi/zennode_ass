@@ -1,0 +1,7 @@
+for python code:
+run command - python generated_bill.py
+pass the input as an argument for product A,B and C(Product price and quantity)
+
+for javascript code:
+run command - node generatedBill.js
+pass the input as an argument which are stored in products array for A,B and C(Product price and quantity)
